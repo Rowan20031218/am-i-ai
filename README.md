@@ -115,7 +115,8 @@ npm run preview
 
 ## 📝 待完善（占位说明）
 
-- [ ] **题目内容**：当前文字/图像均为占位素材（图像来自 `placehold.co`），需替换为真实对比内容（`src/data/questions.js`）
+- [X] **题目内容**：当前文字/图像均为占位素材（图像来自 `placehold.co`），需替换为真实对比内容（`src/data/questions.js`）
+**题目内容已经修改，Powered by Unsplash and ChatGPT Images 2.0**
 
 ## 📄 License
 
