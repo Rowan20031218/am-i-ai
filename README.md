@@ -22,7 +22,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone <仓库地址>
+git clone https://github.com/rowan20031218/am-i-ai.git
 cd am-i-ai
 
 # 2. 安装依赖
@@ -47,7 +47,7 @@ npm run preview
 1. **创建 GitHub 仓库**并将本项目推送上去：
 
    ```bash
-   git remote add origin https://github.com/<你的用户名>/am-i-ai.git
+   git remote add origin https://github.com/rowan20031218/am-i-ai.git
    git push -u origin main
    ```
 
@@ -115,13 +115,8 @@ npm run preview
 
 ## 📝 待完善（占位说明）
 
-以下内容目前为占位，后续填充时请同步更新本 README：
-
 - [ ] **题目内容**：当前文字/图像均为占位素材（图像来自 `placehold.co`），需替换为真实对比内容（`src/data/questions.js`）
-- [ ] **字体**：设计稿要求引入 `Lxgw WenKai`（霞鹜文楷），目前使用系统字体；计划以 WOFF2 放入 `src/assets/fonts/` 并通过 `@font-face` 引入
-- [ ] **LICENSE**：许可证尚未确定
-- [ ] **自动化测试**：暂无
 
 ## 📄 License
 
-_待定（TODO：请补充许可证，如 MIT）_
+本项目采用 [MIT License](./LICENSE) 授权。
